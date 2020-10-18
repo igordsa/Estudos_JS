@@ -29,3 +29,5 @@ for (var i = 0; i < convidados.length; i++) {
         comprarCerveja = true
     }
 }
+
+/*Testes realizados com estrutura de repetição FOR*/
